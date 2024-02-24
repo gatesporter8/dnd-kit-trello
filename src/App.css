@@ -1,0 +1,21 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  align-items: center;
+}
+
+.app-title {
+  padding: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: #4a90e2;
+  color: white;
+}
+
+.lists-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}

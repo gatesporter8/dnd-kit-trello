@@ -1,10 +1,6 @@
-# My Todo List App
+React DND kit trello board
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Running the app
+This is a simple todo list app I built using https://dndkit.com/. It demonstrates the functionality of the useDroppable, and useSortable hooks. useSortable is an abstraction on top of the lower level useDraggable hook that smoothly animates the dragging and dropping sorting process, making the user experience more fluid and visually appealing.
 
 In the project directory, you can run:
 

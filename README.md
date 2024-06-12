@@ -1,4 +1,4 @@
-React DND kit trello board
+### React DND kit trello board
 
 This is a simple todo list app I built using https://dndkit.com/. It demonstrates the functionality of the useDroppable, and useSortable hooks. useSortable is an abstraction on top of the lower level useDraggable hook that smoothly animates the dragging and dropping sorting process, making the user experience more fluid and visually appealing.
 
